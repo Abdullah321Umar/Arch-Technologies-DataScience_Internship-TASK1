@@ -122,7 +122,8 @@ The project successfully demonstrates the end-to-end data science process — fr
 
 ### 💬 Final Thought
 > “Data is not just numbers — it’s the echo of human experience. Through analysis, we don’t just predict; we understand.”
-— Abdullah Umer, Data Science Intern at Arch Technologies
+
+Author — Abdullah Umar, Data Science Intern at Arch Technologies
 
 ---
 
