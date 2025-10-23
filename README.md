@@ -1,4 +1,4 @@
-## 🌈 Data Science Internship Task 4 | 🚢 Titanic Survival Classification — A Voyage into Predictive Intelligence 
+## 🌈 Data Science Internship Task 1 | 🚢 Titanic Survival Classification — A Voyage into Predictive Intelligence 
 Welcome to my Titanic Survival Classification Analysis Project! 🚀
 🌍 Prelude: The Odyssey of Data and Survival
 The tragic sinking of the RMS Titanic remains one of the most compelling maritime events in history.
