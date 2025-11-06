@@ -144,7 +144,7 @@ Author — Abdullah Umar, Data Science Intern at Arch Technologies
 
 ---
 
-### Super Store Sales Analysis Dashboard Preview:-
+### Plots Preview:-
 ![Preview](https://github.com/Abdullah321Umar/Arch-Technologies-DataScience_Internship-TASK1/blob/main/Survival%20Count%20on%20Titanic.png)
 ![Preview](https://github.com/Abdullah321Umar/Arch-Technologies-DataScience_Internship-TASK1/blob/main/Survival%20Rate%20by%20Gender.png)
 ![Preview](https://github.com/Abdullah321Umar/Arch-Technologies-DataScience_Internship-TASK1/blob/main/Survival%20Rate%20by%20Passenger%20Class.png)
